@@ -10,7 +10,7 @@
 - [Python]()
 
 # 算法与数据结构
-- [算法课程]()
+- [算法课程](https://github.com/YuanTao1995/SSE_Algorithm)
 - [LeetCode刷题]()
 
 # 计算机组成原理 & 系统结构
